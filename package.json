@@ -1,5 +1,5 @@
 {
-  "name": "my-turborepo",
+  "name": "PREDICTIFY_m",
   "private": true,
   "scripts": {
     "build": "turbo run build",
